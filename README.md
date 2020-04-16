@@ -75,4 +75,5 @@ vi logs/canal/canal.log
 
 # References
 https://github.com/alibaba/canal/wiki/QuickStart
+
 https://github.com/NormanGyllenhaal/canal-client
