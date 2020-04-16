@@ -1,5 +1,8 @@
 # CDC from MySQL to Elasticsearch using Canal
-An example to practice CDC using Alibaba Canal from MySQL to Elasticsearch 
+
+- Canal is a high performance data synchronization system based on MySQL binary log. 
+
+- Canal Server is capable of parsing MySQL binlog and subscribe to the data change, while Canal Client can be implemented to broadcast the change to anywhere, e.g. database and Apache Kafka.
 
 # Start Environment
 
