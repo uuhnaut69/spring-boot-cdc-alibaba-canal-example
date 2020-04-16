@@ -1,6 +1,6 @@
-package com.uuhnaut69.demo.repository;
+package com.uuhnaut69.demo.mysql.repository;
 
-import com.uuhnaut69.demo.model.Employee;
+import com.uuhnaut69.demo.mysql.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

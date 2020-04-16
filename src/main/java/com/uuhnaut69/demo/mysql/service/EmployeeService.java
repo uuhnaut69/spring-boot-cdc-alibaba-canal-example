@@ -1,7 +1,7 @@
-package com.uuhnaut69.demo.service;
+package com.uuhnaut69.demo.mysql.service;
 
-import com.uuhnaut69.demo.model.Employee;
-import com.uuhnaut69.demo.payload.request.EmployeeRequest;
+import com.uuhnaut69.demo.mysql.model.Employee;
+import com.uuhnaut69.demo.mysql.payload.request.EmployeeRequest;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.uuhnaut69.demo.payload.request;
+package com.uuhnaut69.demo.mysql.payload.request;
 
 import lombok.Data;
 
