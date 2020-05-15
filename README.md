@@ -4,7 +4,7 @@
 
 - Canal Server is capable of parsing MySQL binlog and subscribe to the data change, while Canal Client can be implemented to broadcast the change to anywhere, e.g. database and Apache Kafka.
 
-# Start Environment
+<h3>Start Environment</h3>
 
 Start elasticsearch + kibana service
 
@@ -73,7 +73,7 @@ Verify server is started
 vi logs/canal/canal.log
 ```
 
-# References
+<h3>References</h3>
 https://github.com/alibaba/canal/wiki/QuickStart
 
 https://github.com/NormanGyllenhaal/canal-client
